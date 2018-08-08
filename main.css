@@ -192,7 +192,7 @@ header a:focus {
 
 
 .work a:nth-child(2){
-    background: #ed8331 url(images/logos/biwil.png) center no-repeat;
+    background: #ed8331 url(images/logos/biwil_logo.png) center no-repeat;
     height: 620px;
 }
 
@@ -215,7 +215,7 @@ header a:focus {
 }
 
 .work a:nth-child(5){
-    background: #7daca8 url(images/logos/sound_sleep_logo.png) center no-repeat;
+    background: #7daca8 url(images/logos/logo_soundsleep.png) center no-repeat;
     height: 620px;
 }
 
@@ -270,7 +270,7 @@ header a:focus {
 /*-- projectHeader --*/
 
 .projectHeader_biwil{
-    background: #ed8531 url(images/logos/biwil.png) center no-repeat;
+    background: #ed8531 url(images/logos/biwil_logo.png) center no-repeat;
     height: 620px;
 }
 
@@ -294,7 +294,7 @@ header a:focus {
     height: 620px;
 }
 .projectHeader_soundsleep{
-    background: #7eada9 url(images/logos/sound_sleep_logo.png) center no-repeat;
+    background: #7eada9 url(images/logos/logo_soundsleep.png) center no-repeat;
     height: 620px;
 }
 
