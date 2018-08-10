@@ -76,53 +76,64 @@ li{
 
 }
 
-a #links {
-  color: transparent;
-  display: inline-block;
-  overflow: hidden;
+
+/*----
+h1 > a {
   position: relative;
+  color: #ffd02e;
   text-decoration: none;
-  text-shadow: 0 0 #141414, 0.08em 0 0 #fff, 0 0, -0.08em 0 0 #fff;
-  vertical-align: bottom;
 }
-a #links:after {
-  background: linear-gradient(to bottom, rgba(20, 20, 20, 0.8), rgba(20, 20, 20, 0.8)) center 1.08em/100% 2px no-repeat;
+
+h1 > a:hover {
+  color: #ffd02e;
+}
+
+h1 > a:before {
   content: "";
-  height: 100%;
-  left: 0;
   position: absolute;
-  top: 0;
-  width: 400%;
-  will-change: transform;
-  z-index: -1;
-}
-a #links:hover:after {
-  -webkit-animation: underline-gradient 6s linear infinite;
-          animation: underline-gradient 6s linear infinite;
-  background-image: linear-gradient(90deg, rgba(122, 95, 255, 0.8) 15%, rgba(1, 255, 137, 0.6) 35%, rgba(122, 95, 255, 0.8) 85%);
-}
-
-@-webkit-keyframes underline-gradient {
-  0% {
-    -webkit-transform: translate3d(0%, 0%, 0);
-            transform: translate3d(0%, 0%, 0);
-  }
-  100% {
-    -webkit-transform: translate3d(-75%, 0%, 0);
-            transform: translate3d(-75%, 0%, 0);
-  }
+  width: 100%;
+  height: 2px;
+  bottom:0;
+  right: 0;
+  background-color: #ffd02e;
+  visibility: hidden;
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
 }
 
-@keyframes underline-gradient {
-  0% {
-    -webkit-transform: translate3d(0%, 0%, 0);
-            transform: translate3d(0%, 0%, 0);
-  }
-  100% {
-    -webkit-transform: translate3d(-75%, 0%, 0);
-            transform: translate3d(-75%, 0%, 0);
-  }
+h1 > a:hover:before {
+  visibility: visible;
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
 }
+
+----*/
+
+
+.customUnderline{
+  position: relative;
+}
+
+.customUnderline:after{
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 3px;
+    bottom: 0;
+    right:0;
+
+    background: #ffd02e;
+    transition: width .2s ease;
+    -webkit-transition: width .2s ease;
+}
+
+.customUnderline:hover:after{
+    width: 100%;
+    left:0;
+}
+
 
 /*---- Nav ----*/
 
@@ -136,19 +147,18 @@ nav a{
 
 }
 
-nav a:nth-child(1){\
+nav a:nth-child(1){
     text-align: center;
     font-family: europa, sans-serif;
     font-weight: 700;
     font-style: normal;
     font-size: 20px;
-    line-height: 1.2em;
-    letter-spacing: 0em;
     text-transform: uppercase;
 }
 
 nav a:nth-child(2){
     float: right;
+
 
 }
 nav a:nth-child(3){

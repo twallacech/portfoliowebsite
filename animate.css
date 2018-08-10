@@ -3568,14 +3568,30 @@
   animation-iteration-count: infinite;
 }
 
+.animated.delay-half {
+  -webkit-animation-delay: 500ms;
+  animation-delay: 500ms;
+}
+
+
 .animated.delay-1s {
   -webkit-animation-delay: 1s;
   animation-delay: 1s;
 }
 
+
+.animated.delay-1half {
+  -webkit-animation-delay: 1500ms;
+  animation-delay: 1500ms;
+}
 .animated.delay-2s {
   -webkit-animation-delay: 2s;
   animation-delay: 2s;
+}
+
+.animated.delay-2half {
+  -webkit-animation-delay: 2500ms;
+  animation-delay: 2500ms;
 }
 
 .animated.delay-3s {
@@ -3583,14 +3599,29 @@
   animation-delay: 3s;
 }
 
+.animated.delay-3half {
+  -webkit-animation-delay: 3500ms;
+  animation-delay: 3500ms;
+}
+
 .animated.delay-4s {
   -webkit-animation-delay: 4s;
   animation-delay: 4s;
 }
 
+.animated.delay-4half {
+  -webkit-animation-delay: 4500ms;
+  animation-delay: 4500ms;
+}
+
 .animated.delay-5s {
   -webkit-animation-delay: 5s;
   animation-delay: 5s;
+}
+
+.animated.delay-5half {
+  -webkit-animation-delay: 5500ms;
+  animation-delay: 5500ms;
 }
 
 .animated.fast {
