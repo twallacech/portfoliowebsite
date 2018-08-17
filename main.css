@@ -330,7 +330,10 @@ header a:focus {
     margin: 0 auto;
 }
 
-
+.wrapperCV{
+    width:80%;
+    margin: 0 auto;
+}
 
 /*-- projectDescription --*/
 
