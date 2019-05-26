@@ -215,7 +215,7 @@ header a:focus {
 }
 
 .work a:nth-child(1){
-    background: #131fe6 url(images/logos/archdaily.png) center no-repeat;
+    background: #026CB6 url(images/logos/archdaily.png) center no-repeat;
     height: 620px;
 }
 
@@ -300,7 +300,7 @@ header a:focus {
 
 
 .projectHeader_archdaily{
-    background: #0e17ed url(images/logos/archdaily.png) center no-repeat;
+    background: #026CB6 url(images/logos/archdaily.png) center no-repeat;
     height: 620px;
 }
 
@@ -824,6 +824,10 @@ footer p{
         width: 100%;
     }
 
+    .title1 h1 {
+        font-size:40px;
+    }
+
 
     .nonWork a img{
         margin: 2%;
@@ -866,6 +870,10 @@ footer p{
         margin: 30px auto 100px auto;
     }
 
+    .title1 h1 {
+        font-size:25px;
+    }
+
     .whatIDo{
         text-align: left;
         width: 96%;
@@ -881,45 +889,51 @@ footer p{
         width:100%;
     }
 
+
+    .projectHeader_archdaily{
+    background: #026CB6 url(images/logos/archdaily.png) center no-repeat;
+    height: 155px;
+    }
+
     .projectHeader_biwil{
     background: #ed8531 url(images/logos/biwil_logo.png) center no-repeat;
-    height: 310px;
+    height: 155px;
     }
 
     .projectHeader_denda{
     background: white url(images/logos/denda.png) center no-repeat;
-    height: 310px;
+    height: 155px;
     }
 
 
     .projectHeader_tupuc{
         background: #a7cfe6 url(images/logos/tupuc.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
 
     .projectHeader_jechica{
         background: white url(images/logos/Jechica_logo2013.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
     .projectHeader_beleaf{
         background: #33764a url(images/logos/beleaftransparent.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
     .projectHeader_soundsleep{
         background: #7eada9 url(images/logos/logo_soundsleep.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
     .projectHeader_camara{
         background: #FABC3D url(images/logos/101391_camera_512x512.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
     .projectHeader_courses{
         background: #53a7a4 url(images/logos/think.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
 
