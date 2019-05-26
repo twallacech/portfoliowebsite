@@ -197,38 +197,57 @@ header a:focus {
     width: 100%;
     display: grid;
     grid-template-columns: 50% 50%;
+}
+
+.work2{
+    text-align: center;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 25% 25% 50%;
+}
+
+.work3{
+    text-align: center;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
     margin-bottom: 100px;
 }
 
+.work a:nth-child(1){
+    background: #026CB6 url(images/logos/archdaily.png) center no-repeat;
+    height: 620px;
+}
 
 .work a:nth-child(2){
+    background: #a7cfe6 url(images/logos/tupuc.png) center no-repeat;
+    height: 620px;
+}
+
+.work2 a:nth-child(1){
     background: #ed8331 url(images/logos/biwil_logo.png) center no-repeat;
     height: 620px;
 }
 
-.work a:nth-child(3){
+.work2 a:nth-child(2){
     background: white url(images/logos/denda.png) center no-repeat;
     height: 620px;
 }
 
-.work a:nth-child(6){
-    background: white url(images/logos/Jechica_logo2013.png) center no-repeat;
-    height: 620px;
-}
-.work a:nth-child(1){
-    background: #a7cfe6 url(images/logos/tupuc.png) center no-repeat;
-    height: 620px;
-}
-.work a:nth-child(4){
+.work2 a:nth-child(3){
     background: #007743 url(images/logos/beleaftransparent.png) center no-repeat;
     height: 620px;
 }
 
-.work a:nth-child(5){
+.work3 a:nth-child(1){
     background: #7daca8 url(images/logos/logo_soundsleep.png) center no-repeat;
     height: 620px;
 }
 
+.work3 a:nth-child(2){
+    background: white url(images/logos/Jechica_logo2013.png) center no-repeat;
+    height: 620px;
+}
 
 
 /*---- whatIDo ----*/
@@ -278,6 +297,12 @@ header a:focus {
 
 
 /*-- projectHeader --*/
+
+
+.projectHeader_archdaily{
+    background: #026CB6 url(images/logos/archdaily.png) center no-repeat;
+    height: 620px;
+}
 
 .projectHeader_biwil{
     background: #ed8531 url(images/logos/biwil_logo.png) center no-repeat;
@@ -510,13 +535,16 @@ header a:focus {
 .mainSkills{
     margin-bottom: 5em;
 
+
 }
 
 .mainSkills .programs{
     margin-bottom: 5em;
-    margin-top: 200px;
+    margin-top: 100px;
     display: grid;
     width: 100%;
+    justify-content: space-around;
+    margin-left: 8em;
 
 }
 
@@ -540,28 +568,52 @@ header a:focus {
 }
 
 
-.mainSkills .programs ul{
-    list-style-type: none;
-    text-align: center;
-    -moz-column-count: 9;
-    -moz-column-gap: 10px;
-    -webkit-column-count: 9;
-    -webkit-column-gap: 10px;
-    column-count: 9;
-    column-gap: 10px;
-
-
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
+.mainSkills .programs{
     display: flex;
-    -webkit-flex-flow: row wrap;
     justify-content: space-around;
-
-
+    width:100%;
+    overflow: hidden;
 
 }
+
+.mainSkills .skill_column{
+    width:25%;
+    float:left;
+    justify-content: space-around;
+}
+
+.programs:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.mainSkills .programs ul{
+    list-style: none;
+    padding-left: 0;
+    float: left;
+    margin-top: 15px;
+    margin-right: 30px;
+    justify-content: center;
+
+}
+
+.mainSkills .programs li{
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+
+
+[class^="icon"] {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 15px;
+    margin-right: 10px;
+    fill: black;
+}
+
 
 ul #last_menu{
     color:black;
@@ -772,6 +824,10 @@ footer p{
         width: 100%;
     }
 
+    .title1 h1 {
+        font-size:40px;
+    }
+
 
     .nonWork a img{
         margin: 2%;
@@ -793,6 +849,14 @@ footer p{
         grid-template-columns: 100%;
     }
 
+    .mainSkills .programs{
+        margin-left:4em;
+    }
+
+    .mainSkills .skill_column{
+        width:50%;
+    }
+
 
 
     nav a:nth-child(1){
@@ -806,6 +870,10 @@ footer p{
         margin: 30px auto 100px auto;
     }
 
+    .title1 h1 {
+        font-size:25px;
+    }
+
     .whatIDo{
         text-align: left;
         width: 96%;
@@ -813,45 +881,59 @@ footer p{
 
     }
 
+    .mainSkills .programs{
+        margin-left:0;
+    }
+
+    .mainSkills .skill_column{
+        width:100%;
+    }
+
+
+    .projectHeader_archdaily{
+    background: #026CB6 url(images/logos/archdaily.png) center no-repeat;
+    height: 155px;
+    }
+
     .projectHeader_biwil{
     background: #ed8531 url(images/logos/biwil_logo.png) center no-repeat;
-    height: 310px;
+    height: 155px;
     }
 
     .projectHeader_denda{
     background: white url(images/logos/denda.png) center no-repeat;
-    height: 310px;
+    height: 155px;
     }
 
 
     .projectHeader_tupuc{
         background: #a7cfe6 url(images/logos/tupuc.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
 
     .projectHeader_jechica{
         background: white url(images/logos/Jechica_logo2013.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
     .projectHeader_beleaf{
         background: #33764a url(images/logos/beleaftransparent.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
     .projectHeader_soundsleep{
         background: #7eada9 url(images/logos/logo_soundsleep.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
     .projectHeader_camara{
         background: #FABC3D url(images/logos/101391_camera_512x512.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
     .projectHeader_courses{
         background: #53a7a4 url(images/logos/think.png) center no-repeat;
-        height: 310px;
+        height: 155px;
     }
 
 
@@ -862,6 +944,20 @@ footer p{
     }
 
     .work{
+        text-align: center;
+        width: 100%;
+        display: grid;
+        grid-template-columns: 100%;
+    }
+
+    .work2{
+        text-align: center;
+        width: 100%;
+        display: grid;
+        grid-template-columns: 100%;
+    }
+
+    .work3{
         text-align: center;
         width: 100%;
         display: grid;

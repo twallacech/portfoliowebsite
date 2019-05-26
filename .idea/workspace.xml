@@ -3,27 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="fddebaf3-f181-4663-9741-d82da9a5aa93" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoundSleep.html" beforeDir="false" afterPath="$PROJECT_DIR$/SoundSleep.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archdaily.html" beforeDir="false" afterPath="$PROJECT_DIR$/archdaily.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beleaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/beleaf.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/camara.html" beforeDir="false" afterPath="$PROJECT_DIR$/camara.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/a2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/a2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/n1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/n1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/n10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/n10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/n11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/n11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/n12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/n12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/n2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/n2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/n3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/n3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/n4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/n4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/n8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/n8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/instagram/n9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/instagram/n9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/denda_biwil.html" beforeDir="false" afterPath="$PROJECT_DIR$/denda_biwil.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jechica.html" beforeDir="false" afterPath="$PROJECT_DIR$/jechica.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tupuc.html" beforeDir="false" afterPath="$PROJECT_DIR$/tupuc.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,20 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="camara.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="camara.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/camara.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="96" column="12" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="courses.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/courses.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="756">
+              <caret line="272" column="74" selection-start-line="272" selection-start-column="74" selection-end-line="272" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -55,8 +36,8 @@
       <file leaf-file-name="cv.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cv.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state relative-caret-position="345">
+              <caret line="23" column="106" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="106" />
             </state>
           </provider>
         </entry>
@@ -64,8 +45,8 @@
       <file leaf-file-name="jechica.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jechica.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
+            <state relative-caret-position="825">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -73,8 +54,8 @@
       <file leaf-file-name="SoundSleep.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SoundSleep.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
+            <state relative-caret-position="1365">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
             </state>
           </provider>
         </entry>
@@ -82,8 +63,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="386">
+              <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="archdaily.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/archdaily.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="79" selection-start-line="41" selection-start-column="79" selection-end-line="41" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -91,7 +81,7 @@
       <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/animate.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54300">
+            <state relative-caret-position="373">
               <caret line="3620" selection-start-line="3620" selection-end-line="3620" />
             </state>
           </provider>
@@ -100,17 +90,17 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="622">
+              <caret line="299" lean-forward="true" selection-start-line="299" selection-end-line="299" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tupuc.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tupuc.html">
+      <file leaf-file-name="beleaf.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beleaf.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="756">
+              <caret line="76" column="17" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="76" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -118,26 +108,41 @@
       <file leaf-file-name="denda_biwil.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/denda_biwil.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+            <state relative-caret-position="756">
+              <caret line="202" column="74" selection-start-line="202" selection-start-column="74" selection-end-line="202" selection-end-column="74" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>header</find>
       <find>custom</find>
       <find>h1</find>
       <find>nav</find>
       <find>clearfix</find>
       <find>delay</find>
       <find>wrapper</find>
-      <find>http</find>
       <find>work</find>
+      <find>header</find>
+      <find>li</find>
+      <find />
+      <find>201</find>
+      <find>https://drive.google.com/file/d/1XKN_8ZKzjRInS5ZBXqIgNidk6kdRmfP9/preview</find>
+      <find>http</find>
+      <find>2018</find>
     </findStrings>
+    <replaceStrings>
+      <replace>2019</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -146,16 +151,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/animate.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/beleaf.html" />
         <option value="$PROJECT_DIR$/courses.html" />
         <option value="$PROJECT_DIR$/jechica.html" />
         <option value="$PROJECT_DIR$/SoundSleep.html" />
         <option value="$PROJECT_DIR$/tupuc.html" />
         <option value="$PROJECT_DIR$/denda_biwil.html" />
-        <option value="$PROJECT_DIR$/cv.html" />
-        <option value="$PROJECT_DIR$/main.css" />
         <option value="$PROJECT_DIR$/camara.html" />
+        <option value="$PROJECT_DIR$/beleaf.html" />
+        <option value="$PROJECT_DIR$/cv.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/main.css" />
+        <option value="$PROJECT_DIR$/archdaily.html" />
       </list>
     </option>
   </component>
@@ -197,6 +203,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -213,6 +220,32 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.archdaily.html">
+    <configuration name="SoundSleep.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfoliowebsite/SoundSleep.html" />
+    <configuration name="archdaily.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfoliowebsite/archdaily.html" />
+    <configuration name="camara.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfoliowebsite/camara.html" />
+    <configuration name="denda_biwil.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfoliowebsite/denda_biwil.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/portfoliowebsite/index.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.camara.html" />
+      <item itemvalue="JavaScript Debug.denda_biwil.html" />
+      <item itemvalue="JavaScript Debug.SoundSleep.html" />
+      <item itemvalue="JavaScript Debug.archdaily.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.archdaily.html" />
+        <item itemvalue="JavaScript Debug.SoundSleep.html" />
+        <item itemvalue="JavaScript Debug.denda_biwil.html" />
+        <item itemvalue="JavaScript Debug.camara.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="user defined" created="1555884064257" text="&quot;2018&quot;" recursive="false" caseInsensitive="true" type="HTML" reformatAccordingToStyle="true" shortenFQN="true" useStaticImport="true" replacement="2019" history="1" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -309,7 +342,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416666" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -322,7 +355,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.15931864" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,20 +377,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="bigger cv" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cv.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jechica.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SoundSleep.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -624,80 +643,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/beleaf.html">
+    <entry file="file://$PROJECT_DIR$/courses.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cv.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jechica.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SoundSleep.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
+        <state relative-caret-position="756">
+          <caret line="107" column="74" selection-start-line="107" selection-start-column="74" selection-end-line="107" selection-end-column="74" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tupuc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="771">
+          <caret line="84" column="74" selection-start-line="84" selection-start-column="74" selection-end-line="84" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/camara.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="272" column="74" selection-start-line="272" selection-start-column="74" selection-end-line="272" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jechica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/denda_biwil.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="51" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
+        <state relative-caret-position="756">
+          <caret line="202" column="74" selection-start-line="202" selection-start-column="74" selection-end-line="202" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/beleaf.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="756">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="76" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="106" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="106" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/animate.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54300">
+        <state relative-caret-position="373">
           <caret line="3620" selection-start-line="3620" selection-end-line="3620" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="622">
+          <caret line="299" lean-forward="true" selection-start-line="299" selection-end-line="299" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courses.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="386">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/camara.html">
+    <entry file="file://$PROJECT_DIR$/SoundSleep.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="96" column="12" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
+        <state relative-caret-position="1365">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archdaily.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="79" selection-start-line="41" selection-start-column="79" selection-end-line="41" selection-end-column="79" />
         </state>
       </provider>
     </entry>
