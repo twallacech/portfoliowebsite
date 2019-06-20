@@ -16,7 +16,7 @@
     <meta name = "viewport" content="width-device, initial-scale = 1.0">
     <meta content="#EEEEEE" name="theme-color"/>
     <meta name="description" content="Thomas Wallace Portfolio, Engineer and UI Designer: Learn about my work and passions">
-    <meta name="keywords" content="thomas wallace, portfolio, design, engineering, engineer, chile, UI Design, UX Design, Associate Product Manager Chile">
+    <meta name="keywords" content="thomas wallace, portfolio, design, engineering, engineer, chile, UI Design Chile , UX Design, Associate Product Manager Chile">
 
     <link rel="stylesheet" type="text/css" href="main.css">
     <link rel="stylesheet" href="animate.css">
@@ -166,7 +166,10 @@
         </div>
 
         <footer class="animated slideInUp delay-4half">
-            <p>© <script src="node_modules/rainge/bundle.js"></script> Thomas Wallace</p>
+            <p>© <span id="year"></span> Thomas Wallace</p>
+            <script>
+            document.getElementById("year").innerHTML = new Date().getFullYear();
+            </script>
         </footer>
 
 
