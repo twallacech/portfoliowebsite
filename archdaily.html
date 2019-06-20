@@ -45,7 +45,10 @@
         </div>
 
         <footer>
-            <p>© <script>document.write(new Date().getFullYear())</script> Thomas Wallace</p>
+            <p>© <span id="year"></span> Thomas Wallace</p>
+            <script>
+            document.getElementById("year").innerHTML = new Date().getFullYear();
+            </script>
         </footer>
 
     </div>
