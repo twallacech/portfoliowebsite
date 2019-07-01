@@ -124,7 +124,7 @@ h1 > a:hover:before {
     bottom: 0;
     right:0;
 
-    background: #ffd02e;
+    background: #FF8C42;
     transition: width .2s ease;
     -webkit-transition: width .2s ease;
 }
