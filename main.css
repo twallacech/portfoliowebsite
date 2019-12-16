@@ -167,6 +167,11 @@ nav a:nth-child(3){
     margin-right: 15px;
 }
 
+nav a:nth-child(4){
+    float: right;
+    margin-right: 15px;
+}
+
 nav menu{
     text-align: right;
 }
@@ -198,13 +203,18 @@ header a:focus {
     width: 100%;
     display: grid;
     grid-template-columns: 50% 50%;
+    margin: 16px;
+    column-gap: 16px;
 }
+
 
 .work2{
     text-align: center;
     width: 100%;
     display: grid;
-    grid-template-columns: 25% 25% 50%;
+    grid-template-columns: 50% 50%;
+    margin: 16px;
+    column-gap: 16px;
 }
 
 .work3{
@@ -213,41 +223,84 @@ header a:focus {
     display: grid;
     grid-template-columns: 50% 50%;
     margin-bottom: 100px;
+    margin: 16px;
+    column-gap: 16px;
 }
+
+
+
 
 .work a:nth-child(1){
     background: #026CB6 url(images/logos/archdaily.png) center no-repeat;
     height: 620px;
+    border-radius: 4px;
+}
+
+.work a:hover:nth-child(1){
+    background: #025390 url(images/logos/archdaily.png) center no-repeat;
+    height: 620px;
+    border-radius: 4px;
 }
 
 .work a:nth-child(2){
     background: #a7cfe6 url(images/logos/tupuc.png) center no-repeat;
     height: 620px;
+    border-radius: 4px;
 }
 
-.work2 a:nth-child(1){
-    background: #ed8331 url(images/logos/biwil_logo.png) center no-repeat;
+.work a:hover:nth-child(2){
+    background: #87b0c7 url(images/logos/tupuc.png) center no-repeat;
     height: 620px;
+    border-radius: 4px;
+}
+
+
+.work2 a:nth-child(1){
+    background: white url(images/logos/denda.png) center no-repeat;
+    height: 620px;
+    border-radius: 4px;
+}
+
+.work2 a:hover:nth-child(1){
+    background: #bfbfbf url(images/logos/denda.png) center no-repeat;
+    height: 620px;
+    border-radius: 4px;
 }
 
 .work2 a:nth-child(2){
-    background: white url(images/logos/denda.png) center no-repeat;
-    height: 620px;
-}
-
-.work2 a:nth-child(3){
     background: #007743 url(images/logos/beleaftransparent.png) center no-repeat;
     height: 620px;
+    border-radius: 4px;
+}
+
+.work2 a:hover:nth-child(2){
+    background: #005d2e url(images/logos/beleaftransparent.png) center no-repeat;
+    height: 620px;
+    border-radius: 4px;
 }
 
 .work3 a:nth-child(1){
     background: #7daca8 url(images/logos/logo_soundsleep.png) center no-repeat;
     height: 620px;
+    border-radius: 4px;
+}
+
+.work3 a:hover:nth-child(1){
+    background: #57827e url(images/logos/logo_soundsleep.png) center no-repeat;
+    height: 620px;
+    border-radius: 4px;
 }
 
 .work3 a:nth-child(2){
     background: white url(images/logos/Jechica_logo2013.png) center no-repeat;
     height: 620px;
+    border-radius: 4px;
+}
+
+.work3 a:hover:nth-child(2){
+    background: #bfbfbf url(images/logos/Jechica_logo2013.png) center no-repeat;
+    height: 620px;
+    border-radius: 4px;
 }
 
 
@@ -280,21 +333,35 @@ header a:focus {
 
 .nonWork{
     display: grid;
-    margin: 100px 0 200px 0;
+    margin: 100px 16px 200px 16px;
     grid-template-columns: 50% 50%;
+    column-gap: 16px;
 }
 
 
 .nonWork a:nth-child(1){
     background: #FABC3D url(images/logos/101391_camera_512x512.png) center no-repeat;
     height: 620px;
+    border-radius: 4px;
+}
+
+.nonWork a:hover:nth-child(1){
+    background: #c08c34 url(images/logos/101391_camera_512x512.png) center no-repeat;
+    height: 620px;
+    border-radius: 4px;
 }
 
 .nonWork a:nth-child(2){
     background: #53a7a4 url(images/logos/think.png) center no-repeat;
     height: 620px;
+    border-radius: 4px;
 }
 
+.nonWork a:hover:nth-child(2){
+    background: #448885 url(images/logos/think.png) center no-repeat;
+    height: 620px;
+    border-radius: 4px;
+}
 
 
 /*-- projectHeader --*/
@@ -615,6 +682,19 @@ header a:focus {
     fill: black;
 }
 
+[class^="navicon"] {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    fill: black;
+}
+
+.navicon a:hover,
+.navicon a:focus {
+    color: #657d89;
+    fill:#657d89;
+}
+
 
 ul #last_menu{
     color:black;
@@ -807,6 +887,14 @@ footer p{
 .demo:hover {
   opacity: 1;
 }
+
+
+
+
+
+
+
+
 
 
 
