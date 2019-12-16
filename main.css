@@ -1037,6 +1037,7 @@ footer p{
         width: 100%;
         display: grid;
         grid-template-columns: 100%;
+        grid-row-gap: 16px;
     }
 
     .work2{
@@ -1044,6 +1045,8 @@ footer p{
         width: 100%;
         display: grid;
         grid-template-columns: 100%;
+        grid-row-gap: 16px;
+
     }
 
     .work3{
@@ -1051,6 +1054,8 @@ footer p{
         width: 100%;
         display: grid;
         grid-template-columns: 100%;
+        grid-row-gap: 16px;
+
     }
 
     .nonWork{
@@ -1058,6 +1063,8 @@ footer p{
         width: 100%;
         display: grid;
         grid-template-columns: 100%;
+        grid-row-gap: 16px;
+
     }
 
     .no-mobile {
