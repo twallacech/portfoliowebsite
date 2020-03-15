@@ -927,7 +927,24 @@ footer p{
     .work{
         text-align: center;
         width: 100%;
+        margin: 0;
         display: grid;
+        grid-template-columns: 100%;
+    }
+
+    .work2{
+        text-align: center;
+        width: 100%;
+        display: grid;
+        margin: 0;
+        grid-template-columns: 100%;
+    }
+
+    .work3{
+        text-align: center;
+        width: 100%;
+        display: grid;
+        margin: 0;
         grid-template-columns: 100%;
     }
 
@@ -935,6 +952,7 @@ footer p{
         text-align: center;
         width: 100%;
         display: grid;
+        margin: 0;
         grid-template-columns: 100%;
     }
 
@@ -950,6 +968,10 @@ footer p{
 
     nav a:nth-child(1){
         font-size: 100%;
+    }
+
+    nav a:nth-child(4){
+        display: none;
     }
 }
 
@@ -1077,4 +1099,11 @@ footer p{
         width: 90%;
         margin: 60px auto;
     }
+}
+
+@media only screen and (max-width:340px){
+    nav a:nth-child(2){
+        display: none;
+    }
+
 }
