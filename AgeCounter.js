@@ -4,13 +4,13 @@ class AgeCounter extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      age: ((Date.now() - 711676800000) / 31556908800).toFixed(20)
+      age: ((Date.now() - 810262800000) / 31556908800).toFixed(20)
     };
   }
 
   tick() {
     this.setState({
-      age: ((Date.now() - 711676800000) / 31556908800).toFixed(20)
+      age: ((Date.now() - 810262800000) / 31556908800).toFixed(20)
     });
   }
 

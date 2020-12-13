@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fddebaf3-f181-4663-9741-d82da9a5aa93" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/archdaily.html" beforeDir="false" afterPath="$PROJECT_DIR$/archdaily.html" afterDir="false" />
-    </list>
+    <list default="true" id="fddebaf3-f181-4663-9741-d82da9a5aa93" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="archdaily.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="archdaily.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/archdaily.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="465">
@@ -94,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AgeCounter.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AgeCounter.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AgeCounter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
@@ -682,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AgeCounter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -700,6 +691,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="83" selection-start-line="31" selection-start-column="83" selection-end-line="31" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AgeCounter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
         </state>
       </provider>
     </entry>
