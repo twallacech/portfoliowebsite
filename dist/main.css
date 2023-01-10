@@ -1,0 +1,93 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.webgl
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    outline: none;
+    z-index: -100;
+
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    position: absolute;
+    z-index: -100;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  h1{
+    color: #FFFFFF;
+    margin-bottom: 0px;
+    font-size: 5vw;
+    min-font-size: 20px;
+    max-font-size: 120px;
+  }
+  
+  h2{
+    color:#FFFFFF;
+    font-size: 30px;
+    margin-bottom: 80px;
+  }
+  
+  h3{
+    color:#FFFFFF;
+    font-size: 22px;
+  
+  }
+  
+  p{
+    color:#FFFFFF;
+    font-size: 22px;
+    line-height: 1.5;
+    margin-bottom: 5nppx;
+  }
+  
+  
+  a{
+    color:#FFFFFF;
+    padding-bottom: 8px;
+  }
+  
+  a:hover{
+    color:#FFFFFF;
+  }
+  
+  .App{
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  #bio {
+    padding-bottom: 40px;
+  }
+  
+  #root{
+    display: inline-block;
+    font-size: 22px;
+  }
+
+  #main{
+    z-index: 10;
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 120px;
+  }
+  
+
+
+/*# sourceMappingURL=main.css.map*/
